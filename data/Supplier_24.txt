@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<entry xml:base="https://services.odata.org/V2/Northwind/Northwind.svc/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://services.odata.org/V2/Northwind/Northwind.svc/Suppliers(24)</id>
+  <title type="text"></title>
+  <updated>2024-04-09T03:53:24Z</updated>
+  <author>
+    <name />
+  </author>
+  <link rel="edit" title="Supplier" href="Suppliers(24)" />
+  <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Products" type="application/atom+xml;type=feed" title="Products" href="Suppliers(24)/Products" />
+  <category term="NorthwindModel.Supplier" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+  <content type="application/xml">
+    <m:properties>
+      <d:SupplierID m:type="Edm.Int32">24</d:SupplierID>
+      <d:CompanyName m:type="Edm.String">G'day, Mate</d:CompanyName>
+      <d:ContactName m:type="Edm.String">Wendy Mackenzie</d:ContactName>
+      <d:ContactTitle m:type="Edm.String">Sales Representative</d:ContactTitle>
+      <d:Address m:type="Edm.String">170 Prince Edward Parade Hunter's Hill</d:Address>
+      <d:City m:type="Edm.String">Sydney</d:City>
+      <d:Region m:type="Edm.String">NSW</d:Region>
+      <d:PostalCode m:type="Edm.String">2042</d:PostalCode>
+      <d:Country m:type="Edm.String">Australia</d:Country>
+      <d:Phone m:type="Edm.String">(02) 555-5914</d:Phone>
+      <d:Fax m:type="Edm.String">(02) 555-4873</d:Fax>
+      <d:HomePage m:type="Edm.String">G'day Mate (on the World Wide Web)#http://www.microsoft.com/accessdev/sampleapps/gdaymate.htm#</d:HomePage>
+    </m:properties>
+  </content>
+</entry>

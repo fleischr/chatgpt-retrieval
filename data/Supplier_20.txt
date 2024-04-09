@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<entry xml:base="https://services.odata.org/V2/Northwind/Northwind.svc/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://services.odata.org/V2/Northwind/Northwind.svc/Suppliers(20)</id>
+  <title type="text"></title>
+  <updated>2024-04-09T03:53:22Z</updated>
+  <author>
+    <name />
+  </author>
+  <link rel="edit" title="Supplier" href="Suppliers(20)" />
+  <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Products" type="application/atom+xml;type=feed" title="Products" href="Suppliers(20)/Products" />
+  <category term="NorthwindModel.Supplier" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+  <content type="application/xml">
+    <m:properties>
+      <d:SupplierID m:type="Edm.Int32">20</d:SupplierID>
+      <d:CompanyName m:type="Edm.String">Leka Trading</d:CompanyName>
+      <d:ContactName m:type="Edm.String">Chandra Leka</d:ContactName>
+      <d:ContactTitle m:type="Edm.String">Owner</d:ContactTitle>
+      <d:Address m:type="Edm.String">471 Serangoon Loop, Suite #402</d:Address>
+      <d:City m:type="Edm.String">Singapore</d:City>
+      <d:Region m:type="Edm.String" m:null="true" />
+      <d:PostalCode m:type="Edm.String">0512</d:PostalCode>
+      <d:Country m:type="Edm.String">Singapore</d:Country>
+      <d:Phone m:type="Edm.String">555-8787</d:Phone>
+      <d:Fax m:type="Edm.String" m:null="true" />
+      <d:HomePage m:type="Edm.String" m:null="true" />
+    </m:properties>
+  </content>
+</entry>

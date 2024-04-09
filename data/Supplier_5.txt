@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<entry xml:base="https://services.odata.org/V2/Northwind/Northwind.svc/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://services.odata.org/V2/Northwind/Northwind.svc/Suppliers(5)</id>
+  <title type="text"></title>
+  <updated>2024-04-09T03:53:16Z</updated>
+  <author>
+    <name />
+  </author>
+  <link rel="edit" title="Supplier" href="Suppliers(5)" />
+  <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Products" type="application/atom+xml;type=feed" title="Products" href="Suppliers(5)/Products" />
+  <category term="NorthwindModel.Supplier" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+  <content type="application/xml">
+    <m:properties>
+      <d:SupplierID m:type="Edm.Int32">5</d:SupplierID>
+      <d:CompanyName m:type="Edm.String">Cooperativa de Quesos 'Las Cabras'</d:CompanyName>
+      <d:ContactName m:type="Edm.String">Antonio del Valle Saavedra</d:ContactName>
+      <d:ContactTitle m:type="Edm.String">Export Administrator</d:ContactTitle>
+      <d:Address m:type="Edm.String">Calle del Rosal 4</d:Address>
+      <d:City m:type="Edm.String">Oviedo</d:City>
+      <d:Region m:type="Edm.String">Asturias</d:Region>
+      <d:PostalCode m:type="Edm.String">33007</d:PostalCode>
+      <d:Country m:type="Edm.String">Spain</d:Country>
+      <d:Phone m:type="Edm.String">(98) 598 76 54</d:Phone>
+      <d:Fax m:type="Edm.String" m:null="true" />
+      <d:HomePage m:type="Edm.String" m:null="true" />
+    </m:properties>
+  </content>
+</entry>

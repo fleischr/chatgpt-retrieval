@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<entry xml:base="https://services.odata.org/V2/Northwind/Northwind.svc/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://services.odata.org/V2/Northwind/Northwind.svc/Suppliers(3)</id>
+  <title type="text"></title>
+  <updated>2024-04-09T03:53:15Z</updated>
+  <author>
+    <name />
+  </author>
+  <link rel="edit" title="Supplier" href="Suppliers(3)" />
+  <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Products" type="application/atom+xml;type=feed" title="Products" href="Suppliers(3)/Products" />
+  <category term="NorthwindModel.Supplier" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+  <content type="application/xml">
+    <m:properties>
+      <d:SupplierID m:type="Edm.Int32">3</d:SupplierID>
+      <d:CompanyName m:type="Edm.String">Grandma Kelly's Homestead</d:CompanyName>
+      <d:ContactName m:type="Edm.String">Regina Murphy</d:ContactName>
+      <d:ContactTitle m:type="Edm.String">Sales Representative</d:ContactTitle>
+      <d:Address m:type="Edm.String">707 Oxford Rd.</d:Address>
+      <d:City m:type="Edm.String">Ann Arbor</d:City>
+      <d:Region m:type="Edm.String">MI</d:Region>
+      <d:PostalCode m:type="Edm.String">48104</d:PostalCode>
+      <d:Country m:type="Edm.String">USA</d:Country>
+      <d:Phone m:type="Edm.String">(313) 555-5735</d:Phone>
+      <d:Fax m:type="Edm.String">(313) 555-3349</d:Fax>
+      <d:HomePage m:type="Edm.String" m:null="true" />
+    </m:properties>
+  </content>
+</entry>
